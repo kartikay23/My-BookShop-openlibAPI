@@ -1,5 +1,5 @@
 ## Introduction
-This is a react application which enables to search for books. It uses open library api to fetch the details of books like book cover, book details, book search.
+This is a react application which enables to search for books. It uses open library api to fetch the details of books like book cover, book details, book search. You can search for books by subjects, names, and any other keywords.
 The application is hosted on netlify, here is the link: https://mybookshop-kartikay.netlify.app/
 
 ### Requirements to run this application: 
